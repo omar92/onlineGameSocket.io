@@ -1,0 +1,3 @@
+[submodule "Assets/Modules/SO_System"]
+	path = Assets/Modules/SO_System
+	url = https://github.com/omar92/SO_System
