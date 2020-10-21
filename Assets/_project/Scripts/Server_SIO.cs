@@ -14,6 +14,7 @@ namespace Server
 
         private void Awake()
         {
+            Application.runInBackground = true;
             inistance = this;
             IO = gameObject.GetComponent<SocketIOComponent>();
         }
